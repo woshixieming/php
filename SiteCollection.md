@@ -1,158 +1,160 @@
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ªGitHub¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”GitHubâ€”â€”â€”â€”â€”â€”â€”â€”â€”
+
 https://github.com/markyun/My-blog/issues
+
 _____________________________PHP_________________________
 
-http://blog.sae.sina.com.cn/archives/3506 mysqlÎ»ÔËËãµÄÓ¦ÓÃ
+http://blog.sae.sina.com.cn/archives/3506 mysqlä½è¿ç®—çš„åº”ç”¨
 
-https://jellybool.com   PHP²©¿Í  https://laravist.com
+https://jellybool.com   PHPåšå®¢  https://laravist.com
 
 http://guweigang.com/
 
-http://www.php-fig.org/psr/psr-2/    PHP±àÂë±ê×¼
+http://www.php-fig.org/psr/psr-2/    PHPç¼–ç æ ‡å‡†
 _________________________________________________________________________________________
 
-http://v4.golaravel.com/    laravel¿ò¼Ü
+http://v4.golaravel.com/    laravelæ¡†æ¶
 
-http://lvwenhan.com/laravel/398.html  laravel½Ì³Ì
+http://lvwenhan.com/laravel/398.html  laravelæ•™ç¨‹
 
 
-http://www.iyunlu.com/view/css-xhtml/62.html  ¿ÉÓÃĞÔ¸üºÃµÄCSSÒş²ØÎÄ×Ö¼¼Êõ(CSSÍ¼Æ¬Ìæ»»ÎÄ×Ö)
+http://www.iyunlu.com/view/css-xhtml/62.html  å¯ç”¨æ€§æ›´å¥½çš„CSSéšè—æ–‡å­—æŠ€æœ¯(CSSå›¾ç‰‡æ›¿æ¢æ–‡å­—)
 
-http://www.zhangxinxu.com/wordpress/2014/11/button-text-to-loading/     Ğ¡Ğ¡Ğ¡tip: °´Å¥ÎÄ×ÖÎŞ·ì±ä¾Õ»¨
+http://www.zhangxinxu.com/wordpress/2014/11/button-text-to-loading/     å°å°å°tip: æŒ‰é’®æ–‡å­—æ— ç¼å˜èŠèŠ±
 
-_________________________________ÒÆ¶¯¶Ë¿ò¼Ü_____________________________________________
+_________________________________ç§»åŠ¨ç«¯æ¡†æ¶_____________________________________________
 
-http://foundation.zurb.com/  ÏìÓ¦Ê½ÍøÕ¾
+http://foundation.zurb.com/  å“åº”å¼ç½‘ç«™
 
 http://www.appcan.cn/
 
-http://purecss.io ÏìÓ¦Ê½ÍøÕ¾
+http://purecss.io å“åº”å¼ç½‘ç«™
 
 http://getfri.es/index.html
-_________________________________¼¼Êõ²©¿Í_______________________________________________
+_________________________________æŠ€æœ¯åšå®¢_______________________________________________
 
-http://www.cnblogs.com/jikey/category/346637.html ²©¿Í
+http://www.cnblogs.com/jikey/category/346637.html åšå®¢
 
 http://www.zhangxinxu.com
 
-http://blog.csdn.net/qiqingli/article/details/8618295  Highcharts·­ÒëÏµÁĞ
+http://blog.csdn.net/qiqingli/article/details/8618295  Highchartsç¿»è¯‘ç³»åˆ—
 
-_________________________________¼¼ÊõÍøÕ¾_______________________________________________
+_________________________________æŠ€æœ¯ç½‘ç«™_______________________________________________
 
-http://www.qianduan.net/ Ç°¶Ë¹Û²ì
+http://www.qianduan.net/ å‰ç«¯è§‚å¯Ÿ
 
-http://www.dowebok.com/  Ç°¶ËJQuery
+http://www.dowebok.com/  å‰ç«¯JQuery
 
-http://www.infoq.com/cn/ infoQ  È¨Íş¼¼Êõ·ÖÏí
+http://www.infoq.com/cn/ infoQ  æƒå¨æŠ€æœ¯åˆ†äº«
 
-http://ecd.tencent.com/css3/guide.html  ÌÚÑ¶ECD
+http://ecd.tencent.com/css3/guide.html  è…¾è®¯ECD
 
 http://www.w3cplus.com/ 
 
-http://www.imooc.com/ Ä½¿ÎÍø
+http://www.imooc.com/ æ…•è¯¾ç½‘
 
-http://edu.cnzz.cn/ Õ¾³¤Ñ§Ôº
+http://edu.cnzz.cn/ ç«™é•¿å­¦é™¢
 
-http://www.gbtags.com  ¼«¿Í±êÇ©
+http://www.gbtags.com  æå®¢æ ‡ç­¾
 
 http://www.webhek.com/
 
-http://www.uehtml.com/ Éè¼ÆÍøÕ¾
+http://www.uehtml.com/ è®¾è®¡ç½‘ç«™
 
-http://www.daqianduan.com/  ´óÇ°¶Ë
+http://www.daqianduan.com/  å¤§å‰ç«¯
 
 *Redis
 http://redis.readthedocs.org/en/latest/
 https://github.com/nicolasff/phpredis/#sinter
 
-http://www.webpagetest.org/ ÍøÕ¾¼ÓÔØËÙ¶È¼ì²â
+http://www.webpagetest.org/ ç½‘ç«™åŠ è½½é€Ÿåº¦æ£€æµ‹
 
-http://runjs.cn/   ÌØĞ§ÍøÕ¾
+http://runjs.cn/   ç‰¹æ•ˆç½‘ç«™
 
-http://www.yixieshi.com/  »¥ÁªÍøµÄÒ»Ğ©ÊÂ
+http://www.yixieshi.com/  äº’è”ç½‘çš„ä¸€äº›äº‹
 
 http://www.9miao.com/
 
-http://0xcc.net/jsescape/ ×Ö·û×ª»»
+http://0xcc.net/jsescape/ å­—ç¬¦è½¬æ¢
 
-http://www.fontsquirrel.com/tools/webfont-generator  ×ÖÌå¸ñÊ½×ª»»
+http://www.fontsquirrel.com/tools/webfont-generator  å­—ä½“æ ¼å¼è½¬æ¢
 
 http://www.laruence.com/ PHP
 
-http://code.ciaoca.com/ Ç°¶Ë¿ª·¢²Ö¿â
+http://code.ciaoca.com/ å‰ç«¯å¼€å‘ä»“åº“
 
-http://www.alloyteam.com/    ÌÚÑ¶È«¶Ë AlloyTeam ÍÅ¶Ó Blog
+http://www.alloyteam.com/    è…¾è®¯å…¨ç«¯ AlloyTeam å›¢é˜Ÿ Blog
 
-____________________________________JS²å¼ş_____________________________________________
+____________________________________JSæ’ä»¶_____________________________________________
 
-http://docs.kissyui.com/   ÌÔ±¦UEDĞ§¹û²å¼ş
+http://docs.kissyui.com/   æ·˜å®UEDæ•ˆæœæ’ä»¶
 
-http://pxgrid.github.io/js-flipsnap/  ¹úÍâÍ¼Æ¬¹ö¶¯²å¼ş
+http://pxgrid.github.io/js-flipsnap/  å›½å¤–å›¾ç‰‡æ»šåŠ¨æ’ä»¶
 
-http://www.jarallax.com/ ¹ö¶¯ÊÓ²îĞ§¹ûJS
+http://www.jarallax.com/ æ»šåŠ¨è§†å·®æ•ˆæœJS
 
-http://www.owlcarousel.owlgraphic.com/  ÏìÓ¦Ê½½¹µãÍ¼
+http://www.owlcarousel.owlgraphic.com/  å“åº”å¼ç„¦ç‚¹å›¾
 
-https://highlightjs.org/static/test.html  highlight´úÂë¸ßÁÁ
+https://highlightjs.org/static/test.html  highlightä»£ç é«˜äº®
 
-_______________________________Í¼ ±í___________________________________________________
+_______________________________å›¾ è¡¨___________________________________________________
 
-http://www.fusioncharts.com/developers/javascript-chart-fiddles/   fusionchartsÍ¼±í
+http://www.fusioncharts.com/developers/javascript-chart-fiddles/   fusionchartså›¾è¡¨
 
-http://flotr2.codeplex.com/  html5Í¼±í
+http://flotr2.codeplex.com/  html5å›¾è¡¨
 
-____________________________________¼¼ÊõÎÄÕÂ____________________________________
+____________________________________æŠ€æœ¯æ–‡ç« ____________________________________
 
-http://www.nowamagic.net/librarys/veda/detail/1608 ¹ØÓÚmargin¡¢padding
+http://www.nowamagic.net/librarys/veda/detail/1608 å…³äºmarginã€padding
 
-http://www.warting.com/web/201402/68557.html   CSS3ºĞÄ£ĞÍdisplay:boxÏê½â
+http://www.warting.com/web/201402/68557.html   CSS3ç›’æ¨¡å‹display:boxè¯¦è§£
 
-http://www.w3cplus.com/css3/changing-appearance-of-element-with-css3.html   -webkit-appearanceÊôĞÔ
+http://www.w3cplus.com/css3/changing-appearance-of-element-with-css3.html   -webkit-appearanceå±æ€§
 
 http://lazylinepainter.info/  svg
 http://www.cnblogs.com/lhb25/archive/2013/02/18/lazy-line-painter-a-jquery-plugin.html   svg/jquery
 
-http://www.gbtags.com/gb/explore.htm  ¼«¿Í±êÇ©
+http://www.gbtags.com/gb/explore.htm  æå®¢æ ‡ç­¾
 
-http://www.webhek.com/misc/html5-canvas-cheat-sheet/  css3 canvasËÙ²é±í
+http://www.webhek.com/misc/html5-canvas-cheat-sheet/  css3 canvasé€ŸæŸ¥è¡¨
 
-http://www.cnblogs.com/jscode/archive/2012/08/28/2660078.html   ¸ºÖµÖ®ÃÀ£º¸ºmarginÔÚÒ³Ãæ²¼¾ÖÖĞµÄÓ¦ÓÃ
+http://www.cnblogs.com/jscode/archive/2012/08/28/2660078.html   è´Ÿå€¼ä¹‹ç¾ï¼šè´Ÿmarginåœ¨é¡µé¢å¸ƒå±€ä¸­çš„åº”ç”¨
 
-http://www.cnblogs.com/lhb25/archive/2013/01/30/css3-linear-gradient.html   CSS3 ÏßĞÔ½¥±ä£¨linear-gradient£©
+http://www.cnblogs.com/lhb25/archive/2013/01/30/css3-linear-gradient.html   CSS3 çº¿æ€§æ¸å˜ï¼ˆlinear-gradientï¼‰
 
-http://blog.csdn.net/henren555/article/details/9699449  Àí½âCSS3 transformÖĞµÄMatrix(¾ØÕó)
+http://blog.csdn.net/henren555/article/details/9699449  ç†è§£CSS3 transformä¸­çš„Matrix(çŸ©é˜µ)
 
-http://www.cnblogs.com/jscode/p/3580878.html    HTML5 CanvasÊµÕ½Ö®¹Î½±Ğ§¹û
+http://www.cnblogs.com/jscode/p/3580878.html    HTML5 Canvaså®æˆ˜ä¹‹åˆ®å¥–æ•ˆæœ
 
-http://www.cssstickyfooter.com/cn/using-sticky-footer-code.html   Ò³½Å½ôÌùÔÚÒ³ÃæµÄµ×²¿!¿çä¯ÀÀÆ÷Ö§³ÖµÄ Sticky Footer ´úÂë
+http://www.cssstickyfooter.com/cn/using-sticky-footer-code.html   é¡µè„šç´§è´´åœ¨é¡µé¢çš„åº•éƒ¨!è·¨æµè§ˆå™¨æ”¯æŒçš„ Sticky Footer ä»£ç 
 
-http://www.zhangxinxu.com/wordpress/2011/03/displayinline-blocktext-alignjustify  display:inline-block/text-align:justifyÏÂÁĞ±íµÄÁ½¶Ë¶ÔÆë²¼¾Ö
+http://www.zhangxinxu.com/wordpress/2011/03/displayinline-blocktext-alignjustify  display:inline-block/text-align:justifyä¸‹åˆ—è¡¨çš„ä¸¤ç«¯å¯¹é½å¸ƒå±€
 
-http://www.html580.com/?t0bVdfRV È«ÆÁÊÓÆµ±³¾°
+http://www.html580.com/?t0bVdfRV å…¨å±è§†é¢‘èƒŒæ™¯
 
-http://www.cnblogs.com/jscode/archive/2012/10/19/2730905.html   ´¿CSS»­µÄ»ù±¾Í¼ĞÎ£¨¾ØĞÎ¡¢Ô²ĞÎ¡¢Èı½ÇĞÎ¡¢¶à±ßĞÎ¡¢°®ĞÄ¡¢°ËØÔµÈ
+http://www.cnblogs.com/jscode/archive/2012/10/19/2730905.html   çº¯CSSç”»çš„åŸºæœ¬å›¾å½¢ï¼ˆçŸ©å½¢ã€åœ†å½¢ã€ä¸‰è§’å½¢ã€å¤šè¾¹å½¢ã€çˆ±å¿ƒã€å…«å¦ç­‰
 
-http://www.dowebok.com/118.html ×óÓÒ»¬¶¯ÊÓ²îÒ³Ãæ
+http://www.dowebok.com/118.html å·¦å³æ»‘åŠ¨è§†å·®é¡µé¢
  
 ________________________HTML5 + CSS3____________________________
 
-http://www.nowamagic.net/librarys/veda/detail/1308  ×öÒ»¸öËù¼û¼´ËùµÃµÄCSSĞ§¹û
+http://www.nowamagic.net/librarys/veda/detail/1308  åšä¸€ä¸ªæ‰€è§å³æ‰€å¾—çš„CSSæ•ˆæœ
 
 http://cssanimate.com/ css3 
 
-http://www.createjs.com/ ÓÎÏ·¿ª·¢
+http://www.createjs.com/ æ¸¸æˆå¼€å‘
 
-http://qunee.com/ ¿ª·¢ÇåĞÂ¡¢¸ßĞ§µÄÍØÆËÍ¼×é¼ş
+http://qunee.com/ å¼€å‘æ¸…æ–°ã€é«˜æ•ˆçš„æ‹“æ‰‘å›¾ç»„ä»¶
 
-________________________ËØ²Ä____________________________________
+________________________ç´ æ____________________________________
 
-http://bxslider.com/  ÊÊÓ¦¸÷ÖÖÆÁÄ»µÄ½¹µãÍ¼
+http://bxslider.com/  é€‚åº”å„ç§å±å¹•çš„ç„¦ç‚¹å›¾
 
-http://www.gbtags.com/gb/share/3188.htm   160¶à¸ö³¬ÊµÓÃµÄÇ°¶ËºÍÉè¼ÆÏà¹ØÍøÕ¾
+http://www.gbtags.com/gb/share/3188.htm   160å¤šä¸ªè¶…å®ç”¨çš„å‰ç«¯å’Œè®¾è®¡ç›¸å…³ç½‘ç«™
 
-http://www.jq22.com/ Jquery²å¼ş¿â
+http://www.jq22.com/ Jqueryæ’ä»¶åº“
 
-http://68design.net/   68ÁªÃË
+http://68design.net/   68è”ç›Ÿ
 
 http://fortawesome.github.io/Font-Awesome/icons/ ICON
 
@@ -160,52 +162,52 @@ https://www.iconfinder.com/iconsets/world-flags  ICON
 
 http://findicons.com/  ICON  
 
-http://www.iconfont.cn/  °¢ÀïÍ¼±ê¿â
+http://www.iconfont.cn/  é˜¿é‡Œå›¾æ ‡åº“
 
 http://cubiq.org/iscroll-5
-http://www.gafish.net/api/iScroll.html iScroll4.2.5 ÖĞÎÄAPI
+http://www.gafish.net/api/iScroll.html iScroll4.2.5 ä¸­æ–‡API
 
-http://subtlepatterns.com/page/36/ ÍøÕ¾±³¾°´óÈ«
+http://subtlepatterns.com/page/36/ ç½‘ç«™èƒŒæ™¯å¤§å…¨
 
-http://www.superslide2.com/demo.html tabÇĞ»»
+http://www.superslide2.com/demo.html tabåˆ‡æ¢
 
-https://www.behance.net/ ÒÆ¶¯Ò³Ãæ
+https://www.behance.net/ ç§»åŠ¨é¡µé¢
 
-http://www.uehtml.com/ ¸ß¶ËÃâ·ÑÄ£°å
+http://www.uehtml.com/ é«˜ç«¯å…è´¹æ¨¡æ¿
 
-_______________________²Î¿¼ÍøÕ¾____________________________________
+_______________________å‚è€ƒç½‘ç«™____________________________________
 
-http://isux.tencent.com/  ÌÚÑ¶ISUX
+http://isux.tencent.com/  è…¾è®¯ISUX
 
-http://www.smartisan.com/#/overview  ´¸×Ó¿Æ¼¼
+http://www.smartisan.com/#/overview  é”¤å­ç§‘æŠ€
 
-http://www.ngnice.com/  angularjs²©¿Í
+http://www.ngnice.com/  angularjsåšå®¢
 
-http://www.qxllq.com/ Ç§Ñ°ä¯ÀÀÆ÷Ê×Ò³Ğ§¹û
+http://www.qxllq.com/ åƒå¯»æµè§ˆå™¨é¦–é¡µæ•ˆæœ
 
-http://www.mafengwo.cn/ Âì·äÎÑ
+http://www.mafengwo.cn/ èš‚èœ‚çª
 
-http://www.lightapp.cn/  appÍøÕ¾
+http://www.lightapp.cn/  appç½‘ç«™
 
-http://www.yixieshi.com/web/11120.html   20¸öÓÅĞãµÄÏìÓ¦Ê½²¼¾ÖÍøÒ³Éè¼Æ°¸Àı
+http://www.yixieshi.com/web/11120.html   20ä¸ªä¼˜ç§€çš„å“åº”å¼å¸ƒå±€ç½‘é¡µè®¾è®¡æ¡ˆä¾‹
 
-http://developer.baidu.com/map/jsdemo.htm °Ù¶ÈµØÍ¼AP
+http://developer.baidu.com/map/jsdemo.htm ç™¾åº¦åœ°å›¾AP
 
-http://www.ghostchina.com/  ²©¿Í
+http://www.ghostchina.com/  åšå®¢
 
 http://scotcex_m.html
 
-http://browser.qq.com/index_m.html   QQä¯ÀÀÆ÷Ê×Ò³ÊÓ¾õ²îÒì¹ö¶¯
+http://browser.qq.com/index_m.html   QQæµè§ˆå™¨é¦–é¡µè§†è§‰å·®å¼‚æ»šåŠ¨
 
-http://top.jobbole.com/ ²®ÀÖ
+http://top.jobbole.com/ ä¼¯ä¹
 
-http://greengerong.github.io/blog/archives/  angularjs  ²©¿Í
+http://greengerong.github.io/blog/archives/  angularjs  åšå®¢
 
-______________________Î´·ÖÀà_______________________________________
+______________________æœªåˆ†ç±»_______________________________________
 
-http://www.zhangxinxu.com/sp/char.html  ÈÎÒâ×Ö·û×ª»»³ÉHTMLÊ¶±ğ¸ñÊ½¹¤¾ß
+http://www.zhangxinxu.com/sp/char.html  ä»»æ„å­—ç¬¦è½¬æ¢æˆHTMLè¯†åˆ«æ ¼å¼å·¥å…·
 
-http://alloyteam.github.io/AlloyStick/#section-demo   ¹Ç÷À¶¯»­ÒıÇæ
+http://alloyteam.github.io/AlloyStick/#section-demo   éª¨éª¼åŠ¨ç”»å¼•æ“
 
 http://wicky.nillia.ms/headroom.js/
 
@@ -215,32 +217,32 @@ http://www.ehow.co.uk/
 http://www.jayproxy.net/account/home/    vpn
 ******
 
-¸ßÇåÍ¼Æ¬ÍøÕ¾£º
+é«˜æ¸…å›¾ç‰‡ç½‘ç«™ï¼š
 http://www.gratisography.com/
 http://superfamous.com/
 http://www.behance.net/
 
-´´ÒâÍøÕ¾£º
+åˆ›æ„ç½‘ç«™ï¼š
 http://www.jonmontenegro.com/
 http://www.siteinspire.com/
 
-https://www.behance.net Í¼Æ¬Õ¾
+https://www.behance.net å›¾ç‰‡ç«™
 
 
 http://ueo.baidu.com/gallery/
 
-http://open.weibo.com/widgets?cat=wb   ĞÂÀËÎ¢²©¿ª·ÅÆ½Ì¨
+http://open.weibo.com/widgets?cat=wb   æ–°æµªå¾®åšå¼€æ”¾å¹³å°
 
-http://www.steamdev.com/snippet/  codeÃÀ»¯
+http://www.steamdev.com/snippet/  codeç¾åŒ–
 
 http://www.xuntayizhan.com/
 
 http://www.w3cplus.com/css3/responsive-column-layouts.html
 http://www.alloyteam.com/wp-content/demos/css3-tencent-qq-logo-basic/
 
-http://blog.sina.com.cn/s/blog_4fabb6b401014lbc.html    web jsÔ­Àí
+http://blog.sina.com.cn/s/blog_4fabb6b401014lbc.html    web jsåŸç†
 
-http://themeforest.net/item/angulr-bootstrap-admin-web-app-with-angularjs/full_screen_preview/8437259 ºóÌ¨Ä£°å
+http://themeforest.net/item/angulr-bootstrap-admin-web-app-with-angularjs/full_screen_preview/8437259 åå°æ¨¡æ¿
 
 http://themeforest.net/item/progressive-multipurpose-responsive-template/full_screen_preview/7197521
 
@@ -257,16 +259,16 @@ https://material.angularjs.org/#/demo/material.components.slider
 
 
 
-http://css.doyoe.com/   CSS3ÊÖ²á
+http://css.doyoe.com/   CSS3æ‰‹å†Œ
 
 
-http://www.cnblogs.com/rubylouvre/archive/2012/10/24/2730599.html    onhashchangeÊÂ¼ş
+http://www.cnblogs.com/rubylouvre/archive/2012/10/24/2730599.html    onhashchangeäº‹ä»¶
 
 
 
-http://www.cnblogs.com/PeunZhang/category/455417.html   Ç°¶Ë²©¿Í
+http://www.cnblogs.com/PeunZhang/category/455417.html   å‰ç«¯åšå®¢
 
-http://www.cnblogs.com/PeunZhang/p/3522603.html   ÈçºÎ¸Ä±ä±íµ¥ÔªËØµÄÍâ¹Û(for Webkit and IE10)
+http://www.cnblogs.com/PeunZhang/p/3522603.html   å¦‚ä½•æ”¹å˜è¡¨å•å…ƒç´ çš„å¤–è§‚(for Webkit and IE10)
 
 
 
