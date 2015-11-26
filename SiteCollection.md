@@ -2,7 +2,7 @@
 
 https://github.com/markyun/My-blog/issues
 
-_____________________________PHP_________________________
+____________PHP____________
 
 http://blog.sae.sina.com.cn/archives/3506 mysql位运算的应用
 
@@ -11,7 +11,7 @@ https://jellybool.com   PHP博客  https://laravist.com
 http://guweigang.com/
 
 http://www.php-fig.org/psr/psr-2/    PHP编码标准
-_________________________________________________________________________________________
+________________________________________
 
 http://v4.golaravel.com/    laravel框架
 
@@ -22,7 +22,7 @@ http://www.iyunlu.com/view/css-xhtml/62.html  可用性更好的CSS隐藏文字�
 
 http://www.zhangxinxu.com/wordpress/2014/11/button-text-to-loading/     小小小tip: 按钮文字无缝变菊花
 
-_________________________________移动端框架_____________________________________________
+_________________________移动端框架____________
 
 http://foundation.zurb.com/  响应式网站
 
@@ -31,7 +31,7 @@ http://www.appcan.cn/
 http://purecss.io 响应式网站
 
 http://getfri.es/index.html
-_________________________________技术博客_______________________________________________
+_______________技术博客_________________
 
 http://www.cnblogs.com/jikey/category/346637.html 博客
 
@@ -39,7 +39,7 @@ http://www.zhangxinxu.com
 
 http://blog.csdn.net/qiqingli/article/details/8618295  Highcharts翻译系列
 
-_________________________________技术网站_______________________________________________
+_____________技术网站__________
 
 http://www.qianduan.net/ 前端观察
 
@@ -85,7 +85,7 @@ http://code.ciaoca.com/ 前端开发仓库
 
 http://www.alloyteam.com/    腾讯全端 AlloyTeam 团队 Blog
 
-____________________________________JS插件_____________________________________________
+_________________JS插件_________________
 
 http://docs.kissyui.com/   淘宝UED效果插件
 
@@ -97,13 +97,13 @@ http://www.owlcarousel.owlgraphic.com/  响应式焦点图
 
 https://highlightjs.org/static/test.html  highlight代码高亮
 
-_______________________________图 表___________________________________________________
+______________图 表_____________________
 
 http://www.fusioncharts.com/developers/javascript-chart-fiddles/   fusioncharts图表
 
 http://flotr2.codeplex.com/  html5图表
 
-____________________________________技术文章____________________________________
+_______________技术文章__________________
 
 http://www.nowamagic.net/librarys/veda/detail/1608 关于margin、padding
 
@@ -136,7 +136,7 @@ http://www.cnblogs.com/jscode/archive/2012/10/19/2730905.html   纯CSS画的基�
 
 http://www.dowebok.com/118.html 左右滑动视差页面
  
-________________________HTML5 + CSS3____________________________
+____________HTML5 + CSS3________________
 
 http://www.nowamagic.net/librarys/veda/detail/1308  做一个所见即所得的CSS效果
 
@@ -146,7 +146,7 @@ http://www.createjs.com/ 游戏开发
 
 http://qunee.com/ 开发清新、高效的拓扑图组件
 
-________________________素材____________________________________
+___________素材_______________
 
 http://bxslider.com/  适应各种屏幕的焦点图
 
@@ -175,7 +175,7 @@ https://www.behance.net/ 移动页面
 
 http://www.uehtml.com/ 高端免费模板
 
-_______________________参考网站____________________________________
+_______________参考网站___________________
 
 http://isux.tencent.com/  腾讯ISUX
 
@@ -203,7 +203,7 @@ http://top.jobbole.com/ 伯乐
 
 http://greengerong.github.io/blog/archives/  angularjs  博客
 
-______________________未分类_______________________________________
+______________未分类_________________
 
 http://www.zhangxinxu.com/sp/char.html  任意字符转换成HTML识别格式工具
 
@@ -212,10 +212,6 @@ http://alloyteam.github.io/AlloyStick/#section-demo   骨骼动画引擎
 http://wicky.nillia.ms/headroom.js/
 
 http://www.ehow.co.uk/
-
-******
-http://www.jayproxy.net/account/home/    vpn
-******
 
 高清图片网站：
 http://www.gratisography.com/
