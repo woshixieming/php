@@ -38,3 +38,29 @@
 	>`mysql> PURGE MASTER LOGS BEFORE '2015-12-04 17:46:00';` //按时间点清除，不会删除包含该日期的文件  
 	>`mysql> RESET MASTER;` //清除之前所有的文件，并重新生成新的binlog，后缀从000001开始；主从服务器需要注意  
 	>`binlog-do-db=test` 只记录test数据库的操作；`binlog-ignore-db=test` 记录除test数据库之外的数据库
+
+###12.17 ###
+##### 一些PHP函数 ######
+
+* str_split
+	>array str_split ( string $string [, int $split_length = 1 ] )  
+	>说明：将一个字符串转换为数组。  
+	>参数：string 输入字符串。split\_length 每一段的长度。    
+	>返回值：1 如果指定了可选的 split\_length 参数，返回数组中的每个元素均为一个长度为 split_length 的字符块，否则每个字符块为单个字符。2、如果 split\_length 小于 1，返回 FALSE。如果 split\_length 参数超过了 string 超过了字符串 string 的长度，整个字符串将作为数组仅有的一个元素返回。  
+	>示例：  
+	><?php  
+	>$str = "Hello Friend";  
+	>$arr1 = str\_split($str); //array('H','e','l','l','l','o',....'d');  
+	>$arr2 = str\_split($str, 3); //array('Hel','lo','Fri','end');  
+	>?>
+
+
+* strrev()  
+	>string strrev ( string $string )  
+	>说明：返回 string 反转后的字符串。  
+	>参数：string 待反转的原始字符串。  
+	>返回值：返回反转后的字符串。  
+	>示例：  
+	><?php  
+	>&nbsp;&nbsp;&nbsp;&nbsp;`echo strrev("Hello world!"); // 输出 "!dlrow olleH"`  
+	>?>
