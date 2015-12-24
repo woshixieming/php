@@ -149,6 +149,8 @@
 
 ### 素材 ###
 
+* http://ip.taobao.com/instructions.php 淘宝IP地址库Rest API
+
 * http://bxslider.com/  适应各种屏幕的焦点图
 
 * http://www.gbtags.com/gb/share/3188.htm   160多个超实用的前端和设计相关网站
