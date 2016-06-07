@@ -17,7 +17,7 @@
 * CREATE [UNIQUE] INDEX index\_name ON tabel\_name (col_name,…)
 ###查看/删除索引
 * SHOW INDEX|KEYS FROM table_name 
-* DROP INDEX index_name ON table_name	
+* DROP INDEX index\_name ON table_name	
 
 ##视图
 ###概念
@@ -39,3 +39,17 @@
 * 隐藏的数据的复杂性
 * 简化的用户的SQL命令
 * 通过重命名列，从另一个角度提供数据
+###视图创建
+* CREATE [OR REPLACE] [ALGORITHM = {UNDEFINED | MERGE | TEMPTABLE}] VIEW view\_name [(column\_list)]  AS select\_statement [WITH [CASCADED | LOCAL] CHECK OPTION]
+* `OR REPLACE`：给定了OR REPLACE子句，语句能够替换已有的同名视图。
+* `ALGORITHM`：可选的mysql算法扩展，算法会影响MySQL处理视图的方式。有以下三个值：`UNDEFINED`--MySQL将选择所要使用的算法。如果可能，它倾向于MERGE而不是TEMPTABLE，这是因为MERGE通常更有效，而且如果使用了临时表，视图是不可更新的。`MERGE`--会将引用视图的语句的文本与视图定义合并起来，使得视图定义的某一部分取代语句的对应部分。`TEMPTABLE`--视图的结果将被置于临时表中，然后使用它执行语句。
+* `veiw_name`：视图名。`column_list`：要想为视图的列定义明确的名称，列出由逗号隔开的列名。column\_list中的名称数目必须等于SELECT语句检索的列数。若使用与源表或视图中相同的列名时可以省略column\_list。`select_statement`：用来创建视图的SELECT语句，可在SELECT语句中查询多个表或视图。但对SELECT语句有以下的限制：
+1.定义视图的用户必须对所参照的表或视图有查询（即可执行SELECT语句）权限；2.在定义中引用的表或视图必须存在；
+* `WITH [cascaded|local] CHECK OPTION`：在关于可更新视图的WITH CHECK OPTION子句中，当视图是根据另一个视图定义的时，LOCAL和CASCADED关键字决定了检查测试的范围。LOCAL关键字对CHECK OPTION进行了限制，使其仅作用在定义的视图上，CASCADED会对将进行评估的基表进行检查。如果未给定任一关键字，默认值为CASCADED。WITH CHECK OPTION指出在可更新视图上所进行的修改都要符合select_statement所指定的限制条件，这样可以确保数据修改后，仍可通过视图看到修改的数据。
+* 限制：SELECT语句不能包含FROM子句中的子查询、不能引用系统或用户变量、不能引用预处理语句参数。在存储子程序内，定义不能引用子程序参数或局部变量。在定义中引用的表或视图必须存在。但是，创建了视图后，能够舍弃定义引用的表或视图。要想检查视图定义是否存在这类问题，可使用CHECK TABLE语句。在定义中不能引用TEMPORARY表，不能创建TEMPORARY视图。在视图定义中命名的表必须已存在。不能将触发程序与视图关联在一起。
+###修改视图
+* ALTER [ALGORITHM = {UNDEFINED | MERGE | TEMPTABLE}] VIEW view\_name [(column\_list)] AS select\_statement [WITH [CASCADED | LOCAL] CHECK OPTION]
+
+
+###参考文章：
+* [MYSQL数据库的索引、视图、触发器、游标和存储过程](http://blog.csdn.net/panfengyun12345/article/details/9187693)

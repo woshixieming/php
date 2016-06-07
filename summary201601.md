@@ -10,3 +10,14 @@
 	* 原理：CDN的基本原理是广泛采用各种缓存服务器，将这些缓存服务器分布到用户访问相对集中的地区或网络中，在用户访问网站时，利用全局负载技术将用户的访问指向距离最近的工作正常的缓存服务器上，由缓存服务器直接响应用户请求。
 	* 参考：[维基百科](https://zh.wikipedia.org/wiki/%E5%85%A7%E5%AE%B9%E5%82%B3%E9%81%9E%E7%B6%B2%E8%B7%AF) [百度百科](http://baike.baidu.com/view/21895.htm)
  
+##### $_SERVER
+>例：www.xm4021.com/Index/index.html  
+
+*	`SERVER_ADDR` 当前运行脚本所在的服务器的 IP 地址。
+*	`SERVER_NAME` 当前运行脚本所在的服务器的主机名。如果脚本运行于虚拟主机中，该名称是由那个虚拟主机所设置的值决定。 //www.xm4021.com
+*	`SERVER_SOFTWARE` 服务器标识字符串，在响应请求时的头信息中给出。//Apache/2.4.9 (Win32) PHP/5.5.12
+*	`REQUEST_METHOD` 访问页面使用的请求方法；例如，“GET”, “HEAD”，“POST”，“PUT”。※ 如果请求方法为 HEAD，PHP 脚本将在发送 Header 头信息之后终止(这意味着在产生任何输出后，不再有输出缓冲)。
+*	`DOCUMENT_ROOT` 当前运行脚本所在的文档根目录。在服务器配置文件中定义。
+*	`HTTP_HOST` 当前请求头中 Host: 项的内容，如果存在的话。[与SERVER_NAME的区别](http://mimiz.cn/index.php/php/php-http_host-server_name-difference/)
+*	`HTTP_USER_AGENT` 当前请求头中 User-Agent: 项的内容，如果存在的话。该字符串表明了访问该页面的用户代理的信息。一个典型的例子是：Mozilla/4.5 [en] (X11; U; Linux 2.2.9 i586)。
+*	`REMOTE_ADDR` 浏览当前页面的用户的 IP 地址。
