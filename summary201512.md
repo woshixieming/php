@@ -39,7 +39,7 @@
 	>`mysql> RESET MASTER;` //清除之前所有的文件，并重新生成新的binlog，后缀从000001开始；主从服务器需要注意  
 	>`binlog-do-db=test` 只记录test数据库的操作；`binlog-ignore-db=test` 记录除test数据库之外的数据库
 
-###12.17 ###
+### 12.17 ###
 ##### 一些PHP函数 ######
 
 * str_split
