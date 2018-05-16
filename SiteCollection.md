@@ -89,6 +89,8 @@
 
 ### JS插件 ###
 
+* https://github.com/tshi0912/city-picker 城市选择插件
+
 * https://terryz.oschina.io/selectpage/index.html select框插件及其他
 
 * https://validator.niceue.com/docs/ 表单验证插件
