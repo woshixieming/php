@@ -89,6 +89,10 @@
 
 ### JS插件 ###
 
+* https://terryz.oschina.io/selectpage/index.html select框插件及其他
+
+* https://validator.niceue.com/docs/ 表单验证插件
+
 * http://docs.kissyui.com/   淘宝UED效果插件
 
 * http://pxgrid.github.io/js-flipsnap/  国外图片滚动插件
