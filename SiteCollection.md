@@ -207,8 +207,6 @@
 
 * http://www.ghostchina.com/  博客
 
-* http://scotcex_m.html
-
 * http://browser.qq.com/index_m.html   QQ浏览器首页视觉差异滚动
 
 * http://top.jobbole.com/ 伯乐
