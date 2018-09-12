@@ -21,6 +21,8 @@
 
 * http://www.zhangxinxu.com/wordpress/2014/11/button-text-to-loading/     小小小tip: 按钮文字无缝变菊花
 
+* https://segmentfault.com/a/1190000011478657   基于html2canvas实现网页保存为图片及图片清晰度优化
+
 ### 移动端框架 ###
 
 * http://foundation.zurb.com/  响应式网站
